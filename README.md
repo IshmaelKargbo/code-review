@@ -27,7 +27,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ishmael Kargbo**
 
 - GitHub: [@githubhandle](https://github.com/ishmaelkargbo)
 - Twitter: [@twitterhandle](https://twitter.com/ishoKargbo)
